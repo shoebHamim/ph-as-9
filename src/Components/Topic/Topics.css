@@ -1,0 +1,13 @@
+.react{
+  background-color: #374151;
+}
+.git{
+  background-color: #e0e6ff;
+}
+.selection:hover{
+  transform: scale(1.03);
+  transition: all 1s ;
+}
+button{
+  background-color: #fabc07;
+}

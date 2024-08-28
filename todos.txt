@@ -1,0 +1,12 @@
+2. navbar with 3 routes+Name of the site.. favicon
+3. use a framework -> Tailwind
+4. Header in Home route with a picture and 1-2 lines of information
+5. load quiz data in home
+
+✅ list->
+1. give it a name -> Quiz Master
+
+
+
+🔥list->
+1. 
